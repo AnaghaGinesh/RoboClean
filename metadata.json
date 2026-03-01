@@ -1,0 +1,5 @@
+{
+  "name": "RoboClean",
+  "description": "A comprehensive control and monitoring application for autonomous window cleaning robots, featuring real-time tracking, manual controls, and hardware budget management.",
+  "requestFramePermissions": []
+}
